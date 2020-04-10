@@ -1,0 +1,11 @@
+.navbar{
+    font-family: Overpass,Overpass,"Helvetica Neue",Arial,sans-serif;
+    font-size: 13px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/*COLOR TEXTO*/
+nav div ul li a{
+    color: white;
+}
