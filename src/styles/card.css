@@ -1,0 +1,28 @@
+/*BANNER GALAXY*/
+
+.element{
+    background-image: url('../img/bg_galaxy.png');
+    background-size: cover !important;
+    color: white;
+    padding-left: 10%;
+    margin-top: 10%;
+}
+
+.card-title{
+    font-size: 30px;
+}
+
+.btnBanner{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 3%;
+    margin-top: 10%;
+}
+/*CARDS*/
+.tituloCards{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
