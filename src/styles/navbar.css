@@ -6,7 +6,11 @@
     padding-bottom: 20px;
     padding-left: 10%;
 }
-/*COLOR TEXTO*/
+/*COLOR TEXTO menú*/
 nav div ul li a{
     color: white;
+}
+/*Color texto navbar-brand*/
+nav a{
+    color: white !important;
 }

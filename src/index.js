@@ -10,7 +10,10 @@ import './index.css';
 import 'jquery';
 import 'popper.js';
 import 'bootstrap';
+import Navbar from './containers/navbar.jsx'
 
 //const Home = props => <h1>Proyecto React Vacío</h1>;
 
-ReactDOM.render(<Home />, document.querySelector("#root"));
+ReactDOM.render(<Navbar/>
+    
+    , document.querySelector("#root"));
