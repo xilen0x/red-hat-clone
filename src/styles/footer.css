@@ -1,0 +1,23 @@
+footer{
+    color: white;
+}
+ul li{
+    list-style:none;
+}
+div li{
+    list-style: none;
+}
+div h6{
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+.colRed{
+    background-color: red;
+    
+}
+.fab{
+    padding: 15px;
+    padding-right: 15%;
+
+
+}

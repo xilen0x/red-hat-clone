@@ -6,11 +6,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.css'; // 5.x
 // Custom CSS
 import './index.css';
-import './styles/body.css'
-import './styles/top-banner.css'
-import './styles/navbar.css'
-import './styles/jumbotron.css'
-import './styles/card.css'
 // Add js files
 import 'jquery';
 import 'popper.js';
